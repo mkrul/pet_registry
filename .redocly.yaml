@@ -1,4 +1,4 @@
-organization: bullet_train_boilerplate
+organization: pet_registry
 
 extends:
   - recommended

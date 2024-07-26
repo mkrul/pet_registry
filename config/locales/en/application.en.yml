@@ -5,7 +5,7 @@ en:
     description: "You can update this description in `config/locales/en/application.en.yml`."
     keywords: bullet train boilerplate seo keywords
     support_email: change.me@localhost
-    key: bullet_train_boilerplate
+    key: pet_registry
   webhooks/outgoing/endpoints:
     fields:
       api_version:

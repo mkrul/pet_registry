@@ -68,7 +68,7 @@ Rails.application.configure do
 
   # Use a real queuing backend for Active Job (and separate queues per environment).
   # config.active_job.queue_adapter     = :resque
-  # config.active_job.queue_name_prefix = "bullet_train_boilerplate_production"
+  # config.active_job.queue_name_prefix = "pet_registry_production"
 
   config.action_mailer.perform_caching = false
 
