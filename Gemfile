@@ -63,6 +63,9 @@ group :development, :test do
   # A gem for generating test coverage results in your browser.
   gem "simplecov", require: false
 
+  # live reloading
+  gem "rails_live_reload"
+
   # Generate test objects.
   # 6.3.0 and 6.4.0 have a bug https://github.com/thoughtbot/factory_bot_rails/issues/433
   # And now 6.4.1 and 6.4.2 break some things: https://github.com/bullet-train-co/bullet_train-core/issues/707
